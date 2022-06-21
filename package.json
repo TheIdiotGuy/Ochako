@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "colors": "^1.4.0",
+    "discord-api-types": "^0.34.0",
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1"
+  },
+  "name": "template",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
